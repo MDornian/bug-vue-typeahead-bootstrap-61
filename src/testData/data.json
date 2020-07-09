@@ -1,0 +1,132 @@
+{
+	"I6000000008429002378": {
+		"id": "I6000000008429002378",
+		"type": "individual",
+		"name": {
+			"fullName": "Dorothy Pickle",
+			"given": "Dorothy",
+			"marriedName": "Pickle"
+		},
+		"sex": "Female",
+		"birthDay": {
+			"date": {
+				"date": "27 Jun 1911"
+			}
+		},
+		"death": {
+			"date": {
+				"date": "20 Oct 1994"
+			},
+			"address": {
+				"subdivision": "ID",
+				"country": "United States"
+			}
+		},
+		"occupation": {
+			"title": ""
+		}
+	},
+	"I6000000000413520381": {
+		"id": "I6000000000413520381",
+		"type": "individual",
+		"name": {
+			"fullName": "James Wilfred Smith",
+			"given": "James Wilfred",
+			"marriedName": "Smith"
+		},
+		"sex": "Male",
+		"birthDay": {
+			"date": {
+				"date": "25 Dec 1954"
+			}
+		},
+		"death": {
+			"date": {
+				"date": "23 Aug 2019"
+			}
+		}
+	},
+	"I6000000013301663840": {
+		"id": "I6000000013301663840",
+		"type": "individual",
+		"name": {
+			"fullName": "Kristie Jones",
+			"given": "Kristie",
+			"surname": "Jones",
+			"marriedName": "Whitley"
+		},
+		"sex": "Female",
+		"birthDay": {
+			"date": {
+				"date": "29 Jul 1954"
+			}
+		}
+	},
+	"I6000000007938223219": {
+		"id": "I6000000007938223219",
+		"type": "individual",
+		"name": {
+			"fullName": "Nancy Eugenia Wong",
+			"given": "Nancy Eugenia",
+			"marriedName": "Wong"
+		},
+		"sex": "Female",
+		"birthDay": {}
+	},
+	"I6000000007938131614": {
+		"id": "I6000000007938131614",
+		"type": "individual",
+		"name": {
+			"fullName": "Gregory Wong",
+			"given": "Gregory",
+			"marriedName": "Wong"
+		},
+		"sex": "Male",
+		"birthDay": {},
+		"occupation": {
+			"title": ""
+		}
+	},
+	"I6000000007938166495": {
+		"id": "I6000000007938166495",
+		"type": "individual",
+		"name": {
+			"fullName": "Chad Wong",
+			"given": "Chad",
+			"marriedName": "Wong"
+		},
+		"sex": "Male",
+		"birthDay": {},
+		"occupation": {
+			"title": ""
+		},
+		"residence": {
+			"address": {
+				"city": "Bethalto",
+				"subdivision": "IL",
+				"country": "United States"
+			}
+		}
+	},
+	"I6000000007938230346": {
+		"id": "I6000000007938230346",
+		"type": "individual",
+		"name": {
+			"fullName": "Andrew Wong",
+			"given": "Andrew",
+			"marriedName": "Wong"
+		},
+		"sex": "Male",
+		"birthDay": {},
+		"occupation": {
+			"title": "Student"
+		},
+		"residence": {
+			"address": {
+				"city": "Bethalto",
+				"subdivision": "IL",
+				"country": "United States"
+			}
+		}
+	}
+}
